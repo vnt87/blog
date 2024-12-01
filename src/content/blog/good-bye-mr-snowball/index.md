@@ -1,0 +1,32 @@
+---
+title: Good bye Mr. Snowball
+description: Good bye Mr. Snowball
+pubDate: '2019-11-07'
+updatedDate: '2024-12-01T03:51:14.422Z'
+heroImage: images/1f642.png
+categories:
+  - rants
+tags:
+  - dealing-with-death
+---
+
+\[tatsu\_section bg\_color= "" bg\_image= "" bg\_repeat= "no-repeat" bg\_attachment= '{"d":"scroll"}' bg\_position= '{"d":"top left"}' bg\_size= '{"d":"cover"}' bg\_animation= "none" padding= '{"d":"15px 0px 15px 0px"}' margin= '{"d":"0px 0px 0px 0px"}' bg\_video\_mp4\_src= "" bg\_video\_ogg\_src= "" bg\_video\_webm\_src= "" overlay\_color= "" overlay\_blend\_mode= "normal" section\_height\_type= "auto" custom\_height= '{"d":""}' vertical\_align= "center" top\_divider= "none" top\_divider\_zindex= "9999" bottom\_divider\_zindex= "9999" bottom\_divider= "none" top\_divider\_height= '{"d":100}' top\_divider\_position= "above" bottom\_divider\_height= '{"d":100}' bottom\_divider\_position= "below" top\_divider\_color= "#ffffff" bottom\_divider\_color= "#ffffff" invert\_top\_divider= "0" invert\_bottom\_divider= "0" flip\_top\_divider= "0" flip\_bottom\_divider= "0" section\_id= "" section\_class= "" section\_title= "" offset\_value= "0" full\_screen\_header\_scheme= "background--dark" overflow= "" z\_index= "0" hide\_in= "" animate= "1" animation\_type= "none" animation\_delay= "0" animation\_duration= "300" border\_style= '{"d":"solid","l":"solid","t":"solid","m":"solid"}' border= '{"d":""}' border\_color= "" border\_radius= "" box\_shadow= "0px 0px 0px 0px rgba(0,0,0,0)" key= "g8paoxhh5f733nf5"\]\[tatsu\_row full\_width= "0" bg\_color= "" border\_style= '{"d":"solid","l":"solid","t":"solid","m":"solid"}' border= '{"d":""}' border\_color= "" no\_margin\_bottom= "0" equal\_height\_columns= "0" gutter= "medium" column\_spacing= "" fullscreen\_cols= "0" swap\_cols= "0" padding= '{"d":"0px 0px 0px 0px"}' margin= '{"d":"0px 0px"}' row\_id= "" row\_class= "" box\_shadow= "0px 0px 0px 0px rgba(0,0,0,0)" border\_radius= "0" hide\_in= "" animate= "1" animation\_type= "none" animation\_delay= "0" animation\_duration= "300" layout= "1/1" key= "g8paoxhh7l56koa6"\]\[tatsu\_column bg\_color= "" bg\_image= "" bg\_repeat= "no-repeat" bg\_attachment= "scroll" bg\_position= '{"d":"top left"}' bg\_size= '{"d":"cover"}' padding= '{"d":"0px 0px 0px 0px"}' margin= '{"d":""}' border\_style= '{"d":"solid","l":"solid","t":"solid","m":"solid"}' border= '{"d":""}' border\_color= "" border\_radius= "0" box\_shadow\_custom= "0px 0px 0px 0px rgba(0,0,0,0)" bg\_video\_mp4\_src= "" bg\_video\_ogg\_src= "" bg\_video\_webm\_src= "" overlay\_color= "" overlay\_blend\_mode= "normal" animate\_overlay= "none" link\_overlay= "" vertical\_align= "none" sticky= "0" offset= '{"d":"0px 0px"}' column\_parallax= "0" column\_width= '{"d":"100"}' column\_mobile\_spacing= "0" image\_hover\_effect= "none" column\_hover\_effect= "none" hover\_box\_shadow= "0px 0px 0px 0px rgba(0,0,0,0)" overflow= "" col\_id= "" column\_class= "" top\_divider= "none" top\_divider\_height= '{"d":"100","m":"0"}' top\_divider\_color= "#ffffff" flip\_top\_divider= "0" top\_divider\_zindex= "9999" bottom\_divider= "none" bottom\_divider\_height= '{"d":"100","m":"0"}' bottom\_divider\_color= "#ffffff" flip\_bottom\_divider= "0" bottom\_divider\_zindex= "9999" left\_divider= "none" left\_divider\_width= '{"d":"50","m":"0"}' left\_divider\_color= "#ffffff" invert\_left\_divider= "0" left\_divider\_zindex= "9999" right\_divider= "none" right\_divider\_width= '{"d":"50","m":"0"}' right\_divider\_color= "#ffffff" invert\_right\_divider= "0" right\_divider\_zindex= "9999" z\_index= "0" hide\_in= "" animate= "1" animation\_type= "none" animation\_delay= "0" animation\_duration= "300" layout= "1/1" key= "g8paoxhh9i1w9q19"\]\[tatsu\_text bg\_color= "" color= "" max\_width= '{"d":"100"}' wrap\_alignment= "center" text\_alignment= '{"d":"left"}' margin= '{"d":"0px 0px 30px 0px"}' box\_shadow= "0px 0px 0px 0px rgba(0,0,0,0)" padding= '{"d":"0px 0px 0px 0px"}' border\_style= '{"d":"solid","l":"solid","t":"solid","m":"solid"}' border= '{"d":"0px 0px 0px 0px"}' border\_color= "" border\_radius= "0" text\_typography= '{"d":""}' hide\_in= "" css\_id= "" css\_classes= "" animate= "1" animation\_type= "none" animation\_delay= "0" animation\_duration= "300" key= "g8paoxhhbgee4h8h"\]
+
+2005:  
+Wasn't particularly an eventful year.  
+Lots of things hasn't happened yet.  
+The first iPhone wasn't due for another 2 years.  
+I wasn't even in college, just a kid fresh out of High School.  
+And yet one thing made that year particularly memorable to me, to all of my family.  
+This guy right here.  
+I still remember vividly the day he came into our lives, such tiny little creature, with piercing blue eyes. So small and yet nothing seems to be scaring him. Footsteps, loud noises, nothing could even make him turn his head.  
+(We soon found out that's because he's completely, utterly deaf ![](images/1f642.png):) which is also why he never had a formal name, because nobody could've called him. He was simply known as "The Snowball")  
+Then he'd proceed to spend the next 14 years of his life brightening up our days, without fail.  
+Today is no different really. After spending most of the days being awesome, he took a hearty meal from his favorite bow, went back to his favorite box, took a nap, and decided not to wake up again.  
+Today is a beautiful autumn day. I guess if you could choose how and when to go, today is as good as any.  
+Still, it's never easy losing a friend who was with you for almost half your life.
+
+2005-2019  
+Rest in peace buddy, you may have left our lives, but you will never leave our hearts.
+
+\[/tatsu\_text\]\[justified\_gallery images= "6222,6223,6224,6225,6226,6227,6228" gallery\_paginate= "none" items\_per\_load= "9" gutter\_width= "3" image\_height= "200" full\_size= "0" initial\_load\_style= "init-slide-top" hover\_style= "style2-hover" default\_image\_style= "color" lazy\_load= "0" hover\_image\_style= "black\_white" image\_effect= "none" disable\_overlay= "0" overlay\_color= "" gradient= "0" gradient\_color= "" gradient\_direction= "right" like\_button= "0" hide\_in= "" css\_id= "" css\_classes= "" animate= "1" animation\_type= "none" animation\_delay= "0" animation\_duration= "300" padding= '{"d":""}' margin= '{"d":""}' border\_style= '{"d":"solid","l":"solid","t":"solid","m":"solid"}' border= '{"d":""}' border\_color= "" border\_radius= "" box\_shadow= "0px 0px 0px 0px rgba(0,0,0,0)" key= "O9fUbFcDA"\]\[/justified\_gallery\]\[/tatsu\_column\]\[/tatsu\_row\]\[/tatsu\_section\]
