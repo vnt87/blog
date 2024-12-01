@@ -3,7 +3,7 @@ title: Enhancing OpenMediaVault's sidebar
 description: Enhancing OpenMediaVault's sidebar
 pubDate: '2021-08-22'
 updatedDate: '2024-12-01T03:51:14.415Z'
-heroImage: images/omv_sidebar-1.jpg
+heroImage: /blog-placeholder-3.jpg
 categories:
   - design
   - randomness
@@ -18,7 +18,7 @@ Replaced Rockstor with OMG on my little ChocolateBox NAS. At first glance it app
 
 <figure>
 
-![](images/omv_sidebar-1.jpg)
+![](/blog-placeholder-2.jpg)
 
 <figcaption>
 

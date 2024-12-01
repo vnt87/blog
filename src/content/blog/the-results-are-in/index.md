@@ -3,7 +3,7 @@ title: The Results are in!
 description: The Results are in!
 pubDate: '2020-12-21'
 updatedDate: '2024-12-01T03:51:14.481Z'
-heroImage: images/image-1024x796.png
+heroImage: /blog-placeholder-5.jpg
 categories:
   - design
 tags:
@@ -13,7 +13,7 @@ tags:
   - ux-design-tool
 ---
 
-![](images/image-1024x796.png)
+![](/blog-placeholder-5.jpg)
 
 Figma is now the king in interface design industry. It didn't just overtake Sketch, it pretty much buried it six feet under. Not only that, it even managed to buried other competitors in other category too. Like prototyping (which was pioneered and led by InVision for the longest time) and handoff (something that was typically handled by Zeplin).
 

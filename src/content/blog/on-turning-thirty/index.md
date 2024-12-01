@@ -3,7 +3,7 @@ title: On Turning Thirty
 description: On Turning Thirty
 pubDate: '2017-05-03'
 updatedDate: '2024-12-01T03:51:14.459Z'
-heroImage: images/thirty.jpg
+heroImage: /blog-placeholder-5.jpg
 categories:
   - rants
 tags:
@@ -11,7 +11,7 @@ tags:
   - rant
 ---
 
-![](images/thirty.jpg)
+![](/blog-placeholder-1.jpg)
 
 To be honest, I thought turning 30 would be a bigger milestone, for me personally at least.
 

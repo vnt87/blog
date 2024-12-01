@@ -3,7 +3,7 @@ title: Being nice sucks sometimes
 description: Being nice sucks sometimes
 pubDate: '2021-09-16'
 updatedDate: '2024-12-01T03:51:14.402Z'
-heroImage: images/image-1024x527.png
+heroImage: /blog-placeholder-5.jpg
 categories:
   - rants
 tags: []
@@ -44,7 +44,7 @@ I will concede that declaring that I've lost interest in the project and is leav
 
 OF COURSE there's nothing to show BECAUSE that so called PA made sure nothing I made could be used. Remember, according to her, I have to either choose a non-viable option OR infringe on her work (again, an idea that makes no goddamn sense).  
   
-![](images/image-1024x527.png)I wasted a massive amount of effort on this project despite the fact that I'm only billed at 50% of my effort
+![](/blog-placeholder-2.jpg)I wasted a massive amount of effort on this project despite the fact that I'm only billed at 50% of my effort
 
 3\. Regarding cancellations of FOUR meetings at the last minute due to being 'not ready'
 

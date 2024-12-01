@@ -3,7 +3,7 @@ title: About UX Research
 description: About UX Research
 pubDate: '2022-04-22'
 updatedDate: '2024-12-01T03:51:14.397Z'
-heroImage: images/JHw9ulJ.png
+heroImage: //images/JHw9ulJ.png
 categories:
   - tips-tricks
   - ux-design
@@ -18,11 +18,11 @@ Remember the product development life cycle from an earlier course of the progra
 
 Let’s check out how research fits into the product development life cycle.
 
-![](images/JHw9ulJ.png)
+![](/blog/images/JHw9ulJ.png)
 
 <!--more-->
 
-![icon of a person holding a magnifying glass; text reads: foundational research](images/PlnIgEj.png)
+![icon of a person holding a magnifying glass; text reads: foundational research](/images/PlnIgEj.png)
 
 **Foundational research** is always done _before_ you start designing. Within the product development life cycle, foundational research happens during the brainstorm stage (stage one) to help you empathize with users, understand their needs, and inspire new design directions. During this stage, you will also make personas and user stories, which you'll learn about soon. 
 
@@ -44,7 +44,7 @@ There are lots of research methods for conducting foundational research, but man
 - **Field studies:** Research activities that take place in the user's context or personal environment, rather than in an office or lab. 
 - **Diary studies:** A research method used to collect qualitative data about user behaviors, activities, and experiences over time. Often, a user will log, or diary, about their daily activities and provide information about their behaviors and needs, which can help inform your designs. 
 
-![icon of a profile of a head with tools and icons coming out of the top; text reads: design research](images/X3SCz9i.png)
+![icon of a profile of a head with tools and icons coming out of the top; text reads: design research](/images/X3SCz9i.png)
 
 **Design research** is done _while_ you design. Within the product development lifecycle, design research happens during the design stage (stage three) to help inform your designs, to fit the needs of users, and to reduce risk. Each time you create a new version of your design, new research should be done to evaluate what works well and what needs to be changed. 
 
@@ -59,7 +59,7 @@ Additional research methods that might be used to conduct design research includ
 - **Card sorting:** A research method that instructs study participants to sort individual labels written on notecards into categories that make sense to them. This type of research is largely used to figure out the information architecture of your project, which we’ll discuss in the next course of the program — Course 3: Build Wireframes and Low-Fidelity Designs.
 - **Intercepts:** A research method that gathers on-site feedback from users as they engage in the activities being researched. Intercepts are often conducted in the field, so this type of research is often considered a subset of field research. An intercept study can provide quick, high-level feedback.
 
-![icon of a rocket ship in front of a laptop screen; text reads: post-launch research](images/htAJImN.png)
+![icon of a rocket ship in front of a laptop screen; text reads: post-launch research](/images/htAJImN.png)
 
 **Post-launch research** is done _after_ the design is complete and your product has launched. Within the product development life cycle, post-launch research happens after the launch stage (stage five) to help validate that the product is meeting user needs through established metrics.
 

@@ -3,7 +3,7 @@ title: 'The Product Design Process (or Cycle, to be exact)'
 description: 'The Product Design Process (or Cycle, to be exact)'
 pubDate: '2021-06-14'
 updatedDate: '2024-12-01T03:51:14.480Z'
-heroImage: images/prd_cir.png
+heroImage: /blog-placeholder-2.jpg
 categories:
   - tips-tricks
 tags: []
@@ -11,7 +11,7 @@ tags: []
 
 Every new product, whether it’s an app or a physical object, follows a specific set of steps that take it from the first spark of an idea to the release of the final product. This is called the **product design cycle**, and it has five stages: **brainstorm**, **define**, **design**, **test**, and **launch**. Depending on where you work, the exact names of each stage might be a little different, but the overall process is generally the same.
 
-![graphic showing the product development lifecycle (represented by a circle)](images/prd_cir.png)
+![graphic showing the product development lifecycle (represented by a circle)](/blog-placeholder-1.jpg)
 
 In this reading, you’ll explore the product design cycle and how UX design fits into each stage. As you might have guessed, UX designers are most engaged during the _design_ stage of the product design cycle, but they work closely with team members — like researchers, product managers, and engineers — throughout the entire life cycle. 
 
@@ -21,7 +21,7 @@ Check out each of the five stages of the product design cycle!
 
 <!--more-->
 
-![Subheading - Brainstorm](images/b6LLv7piROOiy7-6YsTj2w_0966b00821154afc92c4f3ec75158f45_UXD_C1_M1_L1_R1_B.png)
+![Subheading - Brainstorm](/blog-placeholder-3.jpg)
 
 The first stage of the product design cycle is the **brainstorm** stage, when the team starts thinking of an idea for a product. Your team might already know the user problem that you want to solve when you begin the product design cycle. If not, coming up with a list of user problems is a great place to start.
 
@@ -33,7 +33,7 @@ The brainstorm stage is also an ideal time to check out your product's competito
 
 One more thing to keep in mind: A UX designer at a large company might not be very involved in the brainstorm stage. But a UX designer at a startup or small business could have a big role to play!
 
-![Subheading - Define](images/JW9qDQaTRXavag0Gk3V2fw_893f78fc26cd459089ee13c66073661f_UXD_C1_M1_L1_R1_C.png)
+![Subheading - Define](/blog-placeholder-2.jpg)
 
 The second stage of the product design cycle brings together UX designers, UX researchers, program managers, and product leads to **define** the product. The goal is to figure out the specifications for the product by answering questions like: Who is the product for? What will the product do? And, what features need to be included for the product to be successful? 
 
@@ -41,7 +41,7 @@ During the define stage, your team narrows the focus of your idea. One product c
 
 Research is key during the define stage, too. You need to pinpoint your potential users’ problems, and your team can’t assume they know what problems users are experiencing without asking the users directly. User research helps determine what problems need to be addressed by the product’s design.
 
-![Subheading - Design](images/bCk6KP5TW-wpOij-S1vqw_1d4a77fa8cac441eae103bdb019c62c5_UXD_C1_M1_L1_R1_D.png)
+![Subheading - Design](/blog-placeholder-2.jpg)
 
 The third stage of the product design cycle is **design**. This is when you, as a UX designer, really get to shine! At this stage, UX designers develop the ideas for the product. Generally, UX designers start by drawing wireframes,which are outlines or sketches of the product, then move on to creating prototypes, which are early models of a product that convey its functionality.
 
@@ -49,7 +49,7 @@ UX writers are also involved in the design stage and might do things like write 
 
 At this point in the life cycle, UX designers make sure to include all of the product specifications that were outlined in the define stage. You might also check to ensure that each part of the design fits together in an intuitive way. For example, UX designers might check that the screens of an app flow in a way that makes sense to the user. Or that each interaction, like tapping a button, has a correlating action, like an item getting added to a cart. On the other hand, with a physical product, UX designers might check that one piece of a physical object matches up to the connecting piece. Finally, UX designers also make sure that each task a user needs to complete is clear and easy to understand, like navigating from the homepage to the checkout confirmation page in an app.
 
-![Subheading - Test](images/WSGPH4cXQXKhjx-HF3Fyig_031f790d43bd47d18f6666ae45ba0794_UXD_C1_M1_L1_R1_E.png)
+![Subheading - Test](/blog-placeholder-5.jpg)
 
 Next, your designs move into the **test** stage. UX designers work with engineers to develop functional prototypes that match the original designs, including details and features that fit the company’s brand, like font and color choices. This also means writing the code and finalizing the overall structure of the product. 
 
@@ -65,7 +65,7 @@ Gathering and implementing feedback at this stage is absolutely critical. If use
 
 It’s important to call out that the product design cycle isn’t a completely linear process. Your team might cycle between designing and testing a few times before you're ready to launch the product!
 
-![Subheading - Launch](images/YVXYd0K-SOiV2HdCvnjoRQ_35ab9da5a06c4177b264637d8419eee5_UXD_C1_M1_L1_R1_F.png)
+![Subheading - Launch](/blog-placeholder-4.jpg)
 
 Finally, you’ve arrived at the fifth and final stage of the product development cycle: the **launch** stage, when the product is released into the world! This might involve listing an app in the Google Play Store or Apple’s App Store, making a website go live, or putting a physical product on store shelves. 
 

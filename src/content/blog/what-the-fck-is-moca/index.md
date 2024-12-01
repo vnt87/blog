@@ -3,7 +3,7 @@ title: What the f*ck is Moca?
 description: What the f*ck is Moca?
 pubDate: '2018-12-11'
 updatedDate: '2024-12-01T03:51:14.491Z'
-heroImage: images/image-1024x373.png
+heroImage: /blog-placeholder-1.jpg
 categories:
   - randomness
   - rants
@@ -18,7 +18,7 @@ But nah, they gonna go with Moca, a name most people have never even heard befor
 
 <figure>
 
-![](images/image-1024x373.png)
+![](/blog-placeholder-2.jpg)
 
 <figcaption>
 
@@ -32,7 +32,7 @@ Ok that's a little alarming. But surely you can't judge a mobile app by the abso
 
 <figure>
 
-![](images/dumb_moca-576x1024.jpg)
+![](/blog-placeholder-4.jpg)
 
 <figcaption>
 

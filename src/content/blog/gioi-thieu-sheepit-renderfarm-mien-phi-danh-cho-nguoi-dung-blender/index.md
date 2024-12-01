@@ -3,13 +3,13 @@ title: 'Giới thiệu SheepIt: Renderfarm miễn phí dành cho người dùng 
 description: 'Giới thiệu SheepIt: Renderfarm miễn phí dành cho người dùng Blender'
 pubDate: '2023-09-08'
 updatedDate: '2024-12-01T03:51:14.421Z'
-heroImage: images/image-1024x505.png
+heroImage: /blog-placeholder-3.jpg
 categories:
   - randomness
 tags: []
 ---
 
-[![](images/image-1024x505.png)](https://www.sheepit-renderfarm.com)
+[![](/blog-placeholder-2.jpg)](https://www.sheepit-renderfarm.com)
 
 ```
 (this post will be written in Vietnamese as those are the main target audience)

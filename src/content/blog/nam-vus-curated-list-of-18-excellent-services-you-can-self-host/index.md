@@ -3,7 +3,7 @@ title: Nam Vu's curated list of 18 excellent services you can self-host
 description: Nam Vu's curated list of 18 excellent services you can self-host
 pubDate: '2022-07-22'
 updatedDate: '2024-12-01T03:51:14.454Z'
-heroImage: images/image-1024x515.png
+heroImage: /blog-placeholder-3.jpg
 categories:
   - randomness
 tags: []
@@ -15,7 +15,7 @@ It is no secret that I am a [major self-hosting fanatic](https://namvu.net/2021/
 
 <figure>
 
-![](images/image-1024x515.png)
+![](/blog-placeholder-2.jpg)
 
 <figcaption>
 
@@ -31,7 +31,7 @@ Authelia is an authentication gateway. You only need to sign in once and you'll 
 
 <figure>
 
-![](images/npm-1024x526.jpg)
+![](/blog-placeholder-3.jpg)
 
 <figcaption>
 
@@ -47,7 +47,7 @@ There's many reverse proxies out there, like Traefik and Caddy, which is actuall
 
 <figure>
 
-![](images/image-1-1024x517.png)
+![](/blog-placeholder-3.jpg)
 
 <figcaption>
 
@@ -67,7 +67,7 @@ I initially made the foolish mistake of choosing Plex, even went as far as purch
 
 <figure>
 
-![](images/image-4-1024x514.png)
+![](/blog-placeholder-4.jpg)
 
 <figcaption>
 
@@ -83,7 +83,7 @@ DSM gives you a file manager, a Docker manager (although far inferior to Portain
 
 <figure>
 
-![](images/image-5-1024x519.png)
+![](/blog-placeholder-3.jpg)
 
 <figcaption>
 
@@ -99,7 +99,7 @@ Almost everything I run is containerized with Docker, and with over 30 container
 
 <figure>
 
-![](images/image-6-1024x519.png)
+![](/blog-placeholder-5.jpg)
 
 <figcaption>
 
@@ -121,7 +121,7 @@ In reality though, I find myself using btop over SSH a lot more than netadata, b
 
 <figure>
 
-![](images/image-18-1024x515.png)
+![](/blog-placeholder-1.jpg)
 
 <figcaption>
 
@@ -137,7 +137,7 @@ Guacamole allows you to open a SSH or VNC or even RDP session to any computer on
 
 <figure>
 
-![](images/image-10-1024x519.png)
+![](/blog-placeholder-2.jpg)
 
 <figcaption>
 
@@ -153,7 +153,7 @@ I have 5 websites on my Linode VPS, plus over 2 dozens other services that I sel
 
 <figure>
 
-![](images/image-3-1024x515.png)
+![](/blog-placeholder-1.jpg)
 
 <figcaption>
 
@@ -169,7 +169,7 @@ So my cheapo Chinese analog CCTV system relies on Internet Fucking Explorer to o
 
 <figure>
 
-![](images/image-9-1024x560.png)
+![](/blog-placeholder-3.jpg)
 
 <figcaption>
 
@@ -183,7 +183,7 @@ Mattermost Team edition 7.1.2-rc1
 
 <figure>
 
-![](images/image-8-1024x515.png)
+![](/blog-placeholder-2.jpg)
 
 <figcaption>
 
@@ -199,7 +199,7 @@ Y'all know I design user interfaces for a living, and thus my life depends on Fi
 
 <figure>
 
-![](images/image-15-1024x505.png)
+![](/blog-placeholder-3.jpg)
 
 <figcaption>
 
@@ -215,7 +215,7 @@ App dashboards are a dime a dozen among self-hoster, mainly due to how easy it i
 
 <figure>
 
-![](images/image-14-1024x505.png)
+![](/blog-placeholder-2.jpg)
 
 <figcaption>
 
@@ -229,13 +229,13 @@ The only reason this is this far down the list is not because it's not good, but
 
 ## 14\. [Navidrome](https://www.navidrome.org/) (HQ music streaming server)
 
-![](images/image-11-1024x505.png)
+![](/blog-placeholder-1.jpg)
 
 ## 15\. [YoutubeDL](https://github.com/Tzahi12345/YoutubeDL-Material) Material
 
 <figure>
 
-![](images/image-12-1024x505.png)
+![](/blog-placeholder-5.jpg)
 
 <figcaption>
 
@@ -249,7 +249,7 @@ YoutubeDL-Material screenshot
 
 <figure>
 
-![](images/image-19-1024x515.png)
+![](/blog-placeholder-2.jpg)
 
 <figcaption>
 
@@ -269,7 +269,7 @@ A fork of Firefox Send, which was [officially retired](https://support.mozilla.o
 
 <figure>
 
-![](images/image-13-1024x505.png)
+![](/blog-placeholder-3.jpg)
 
 <figcaption>
 

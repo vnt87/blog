@@ -3,7 +3,7 @@ title: 'Designing for Multiple Platforms: The Four Cs Principle'
 description: 'Designing for Multiple Platforms: The Four Cs Principle'
 pubDate: '2021-06-24'
 updatedDate: '2024-12-01T03:51:14.413Z'
-heroImage: images/K7Mm2uf.png
+heroImage: //images/K7Mm2uf.png
 categories:
   - tips-tricks
   - ux-design
@@ -17,7 +17,7 @@ tags:
 
 Successfully designing across platforms means providing users with a good experience, no matter what platform they use! As a UX designer, your job is to make sure that your designs account for and take full advantage of the unique features of each platform. When preparing to design across platforms, it’s helpful to keep in mind the four Cs: consistency, continuity, context, and complementary.  
 
-![Graphic from the point of view of someone looking at their hands on a laptop. They are holding a phone and wearing a watch.](images/K7Mm2uf.png)
+![Graphic from the point of view of someone looking at their hands on a laptop. They are holding a phone and wearing a watch.](/blog/images/K7Mm2uf.png)
 
 **Consistency**: Most companies have specific design guidelines that need to be followed in order to stay consistent with their brand identity, which refers to the visual appearance and voice of a company. When designing a product, it’s essential to stay true to the company’s brand guidelines in order to maintain consistency across platforms and drive brand awareness. Maintaining a consistent design helps improve the user experience and build trust, because users can expect the design to feel familiar across platforms and products.
 
@@ -25,19 +25,19 @@ Successfully designing across platforms means providing users with a good experi
 
 Take Google, for example. No matter which Google product or platform you use, you’ll find the colors red, blue, yellow, and green incorporated throughout the design. These visual design details are an essential part of building consistency, trust, and user loyalty.  
 
-![A graphic of a laptop and a phone next to each other. On the laptop, there's an email draft. Same draft is on the phone.](images/anDZpkx.png)
+![A graphic of a laptop and a phone next to each other. On the laptop, there's an email draft. Same draft is on the phone.](/images/anDZpkx.png)
 
 **Continuity**: To provide users with a seamless experience as they move between platforms, UX designers also have to prioritize continuity. Continuity in design means that users can maintain their progress as they move from one platform to the next. The user experience for each platform might be slightly different, but the product’s functionality should still be connected. Without continuity, users can become frustrated if the progress of their experience does not carry across platforms.
 
 For example, imagine you’re designing a website and app for emails. A user should be able to start writing an email on their laptop, save it as a draft, and finish that email later on their mobile phone. 
 
-![A graphic of a laptop screen next to a smart watch screen. Email appears on laptop, notification appears on the watch.](images/SVmWy8S.png)
+![A graphic of a laptop screen next to a smart watch screen. Email appears on laptop, notification appears on the watch.](/images/SVmWy8S.png)
 
 **Context**: It’s also important to consider the context of each platform you’re designing for. This means thinking about when and how users prefer to interact with certain features on different platforms. 
 
 For example, imagine that a user has an email app on both their laptop and smartwatch. They’re probably not going to compose an entire email on their small smartwatch screen, but they might still want to get notifications about new emails or read important messages. Designers have to take into account the context of the user’s situation and adapt the design for each platform accordingly. 
 
-![A graphic of a laptop next to a phone screen. On the laptop, hands are typing an email. On the phone, they are adding images](images/gZPHxAm.png)
+![A graphic of a laptop next to a phone screen. On the laptop, hands are typing an email. On the phone, they are adding images](/images/gZPHxAm.png)
 
 **Complementary**: One way to create a great cross-platform user experience is to make sure that the design of each platform adds something new for the user. 
 

@@ -3,7 +3,7 @@ title: Installing Autodesk Maya 2018 Update 3 on Deepin Linux 15.6
 description: Installing Autodesk Maya 2018 Update 3 on Deepin Linux 15.6
 pubDate: '2018-08-17'
 updatedDate: '2024-12-01T03:51:14.435Z'
-heroImage: images/xbISq6Z.png
+heroImage: ///images/xbISq6Z.png
 categories:
   - linux
   - tips-tricks
@@ -12,7 +12,7 @@ tags: []
 
 \[tatsu\_section bg\_color= "" bg\_image= "" bg\_repeat= "no-repeat" bg\_attachment= "scroll" bg\_position= "top left" bg\_size= "cover" bg\_animation= "none" padding= '{"d":"15px 0px 15px 0px"}' margin= "0px 0px 0px 0px" border= "0px 0px 0px 0px" border\_color= "" bg\_video= "0" bg\_video\_mp4\_src= "" bg\_video\_ogg\_src= "" bg\_video\_webm\_src= "" bg\_overlay= "0" overlay\_color= "" full\_screen= "0" section\_id= "" section\_class= "" section\_title= "" offset\_section= "" offset\_value= "0" full\_screen\_header\_scheme= "background--dark" hide\_in= "0" key= "fuctf4qujl6k8y1b"\]\[tatsu\_row full\_width= "0" no\_margin\_bottom= "0" equal\_height\_columns= "0" gutter= "medium" column\_spacing= "" fullscreen\_cols= "0" swap\_cols= "0" row\_id= "" row\_class= "" hide\_in= "0" layout= "1/1" key= "fuctf4qurh8mmq8q"\]\[tatsu\_column bg\_color= "" bg\_image= "" bg\_repeat= "no-repeat" bg\_attachment= "scroll" bg\_position= '{"d":"top left"}' bg\_size= '{"d":"cover"}' padding= '{"d":"0px 0px 0px 0px"}' custom\_margin= "0" margin= '{"d":"0px 0px 0px 0px"}' border= '{"d":"0px 0px 0px 0px"}' border\_color= "" enable\_box\_shadow= "0" box\_shadow\_custom= "0 0 15px 0 rgba(198,202,202,0.4)" bg\_video= "0" bg\_video\_mp4\_src= "" bg\_video\_ogg\_src= "" bg\_video\_webm\_src= "" bg\_overlay= "0" overlay\_color= "" animate\_overlay= "none" link\_overlay= "" vertical\_align= "none" column\_offset= "0" offset= "0px 0px" z\_index= "0" column\_parallax= "0" animate= "0" animation\_type= "fadeIn" animation\_delay= "0" col\_id= "" column\_class= "" hide\_in= "0" layout= "1/1" key= "fuctf4quz49g6nqk"\]\[tatsu\_text max\_width= '{"d":"100"}' wrap\_alignment= "center" animate= "" animation\_type= "fadeIn" animation\_delay= "0" key= "fuctf4r3w95528q3"\]
 
-![](images/xbISq6Z.png)
+![](/blog/images/xbISq6Z.png)
 
 Okay so this is pretty much a journal of how I managed to get Maya to run for the first time on one my my Linux boxes.
 
@@ -26,7 +26,7 @@ Luckily for them, a genius called Christoph Lameter came in and saved the day wi
 
 Enough ranting, let's go to the topic at hand. I figure the screenshot below is why you are all here:
 
-![](images/xbISq6Z.png)
+![](/blog/images/xbISq6Z.png)
 
 Intrigued yet? That's right, Maya 2018.3 working perfectly under Deepin Linux (well, not perfectly, it's still puking a bunch of errors out in the terminal everytime it launches, but it's functional)
 

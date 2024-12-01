@@ -3,7 +3,7 @@ title: Server migration (again)
 description: Server migration (again)
 pubDate: '2023-09-08'
 updatedDate: '2024-12-01T03:51:14.467Z'
-heroImage: images/image-1024x544.png
+heroImage: /blog-placeholder-2.jpg
 categories:
   - randomness
   - rants
@@ -22,6 +22,6 @@ It worked, for a while. Until performance became a problem again. With the $5 na
 
 So anyway, long story short, I switched to Hetzner as per many recommendations on reddit. And you know what, redditors know their stuffs. For less than the price of a Vietnamese Starbucks I'm getting 2 vCPU, 2GB RAM, 40GB Storage and 20Tb bandwidth per month. This beats the absolute living shit out of any offer from Vulture, Linode, DigitalOcean, OVH etc.
 
-![](images/image-1024x544.png)
+![](/blog-placeholder-4.jpg)
 
 The downside is of course, this pricing only applies to VM instances located in Europe. I suppose Hetzner has some sort of home turf advantage that enabled them to keep the cost down. They recently introduced a new data center in Singapore. I tried provisioning a VM there but the monthly cost is more than triple the price of Helsinki. But I can live with a little of latency if that means I can keep the cost at a reasonable level. Otherwise I'd just bring everything back to run on my home NAS.

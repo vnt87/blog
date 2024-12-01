@@ -3,7 +3,7 @@ title: Prettify your qBittorrent WebUI
 description: Prettify your qBittorrent WebUI
 pubDate: '2021-04-13'
 updatedDate: '2024-12-01T03:51:14.463Z'
-heroImage: images/qbit1-1024x572.png
+heroImage: /blog-placeholder-4.jpg
 categories:
   - diy
   - randomness
@@ -18,9 +18,9 @@ tags:
   - webui
 ---
 
-![](images/qbit1-1024x572.png)
+![](/blog-placeholder-4.jpg)
 
-![](images/qbit2-1024x571.png)
+![](/blog-placeholder-4.jpg)
 
 I absolutely love qBittorrent but as an UI Designer, one thing that doesn't sit well with me is its 1990-esque web interface. While they do allow you to load your custom CSS, there wasn't a lot you could do with it beyond changing a few colors, and even the most downloaded themes in the community still only looks marginally better.
 
@@ -32,7 +32,7 @@ So here's how I set it up on my little Mac Mini server (this is the non-Docker w
 
 First of all, you'll need a working qBittorrent web UI service running. This can be done by simply opening qBittorrent, go to Options > Web UI and click on the checkbox to enable it. Take note of the IP address and port because Flood is going to ask for it later (if you put an asterisk\* as your IP, it means you're using `127.0.0.1` or `localhost`)
 
-![](images/image-2-1024x524.png)
+![](/blog-placeholder-5.jpg)
 
 Next up, get node installed on your system, on OS X if you have [homebrew](https://brew.sh/) installed, you can just simply execute `brew install node` from the terminal. It's going to take a while, especially if you have a shitty 2011-esque Mac Mini like mine so grab some coffee.
 

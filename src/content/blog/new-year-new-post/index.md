@@ -3,7 +3,7 @@ title: 'New Year, New Post'
 description: 'New Year, New Post'
 pubDate: '2024-02-15'
 updatedDate: '2024-12-01T03:51:14.454Z'
-heroImage: images/image.png
+heroImage: /blog-placeholder-1.jpg
 categories:
   - randomness
 tags: []
@@ -15,7 +15,7 @@ It's not that I haven't been trying to write, but lately I find it increasingly 
 
 Just look at the amount of drafts I have pending, some of which dated back several years.
 
-![](images/image.png)
+![](/blog-placeholder-5.jpg)
 
 Even as I'm writing this, I'm not entirely sure if this will eventually make it to the blog page, or end up as another draft. Still, I needed to start writing again, or I might forget how to. Tonight is the Eve of the Lunar New Year celebration here in Vietnam, but I have no doubt it will be much later until I can finish this blog post. We'll see.
 

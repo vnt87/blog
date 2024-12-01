@@ -3,7 +3,7 @@ title: My Electron Toolbelt
 description: My Electron Toolbelt
 pubDate: '2019-08-14'
 updatedDate: '2024-12-01T03:51:14.449Z'
-heroImage: images/Screenshot-2020-04-02-14.15.27.png
+heroImage: /blog-placeholder-5.jpg
 categories:
   - tips-tricks
 tags:
@@ -29,13 +29,13 @@ Anyway here's my list of Electron-based apps that I couldn't live without
 
 ### Figma - Screen Design Tool
 
-![](images/Screenshot-2020-04-02-14.15.27.png)
+![](/blog-placeholder-4.jpg)
 
 Given that I am a front-end UI designer, this one obviously tops the list. Unlike most other items in this list though, Figma is not just a 'multi-platform alternative' to its competitors, it's actually THE best tool available in its field. And with its recent addition of plugin support, it's only getting better
 
 ### Visual Studio Code - General Text Editor
 
-![](images/image-3-1024x550.png)
+![](/blog-placeholder-5.jpg)
 
 This is the most extensible piece of software I've ever seen. The only way this could possibly be better is maybe when someone comes along and add some kind of AI to make it sentient.
 
@@ -49,7 +49,7 @@ To be honest you can just use VS Code for everything Brackets does, but since th
 
 ### Mattermost - Team Chat
 
-![](images/image-1024x583.png)
+![](/blog-placeholder-5.jpg)
 
 Unless you're a lone wolf, you'll most likely need to use some sort of teamchat for internal communication. Now there's plenty of choices in this area, and Slack used to be my go to choice in this field. But ever since I joined r/selfhosted, I've joined the great movement to segregate from big corps data, and now I host my own team chat
 
@@ -57,7 +57,7 @@ Unless you're a lone wolf, you'll most likely need to use some sort of teamchat 
 
 <figure>
 
-![](images/image-4.png)
+![](/blog-placeholder-1.jpg)
 
 <figcaption>
 

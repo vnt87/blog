@@ -3,7 +3,7 @@ title: Conducting User Interviews
 description: Conducting User Interviews
 pubDate: '2021-07-20'
 updatedDate: '2024-12-01T03:51:14.411Z'
-heroImage: images/9oslXLT.png
+heroImage: //images/9oslXLT.png
 categories:
   - ux-design
 tags:
@@ -12,7 +12,7 @@ tags:
 
 As a UX designer, you'll always focus on the user and the experience they’ll have with the product you’re designing. In this course, you’ll learn about the first phase of the design process, empathizing with users, which is critical when it comes to creating a great user experience. In order to empathize with users and understand their pain points, you'll need to conduct interviews with real people who might use the product you’re designing.
 
-![Prepare for the interview: Interview preparation checklist as the the user researches on the computer](images/9oslXLT.png)
+![Prepare for the interview: Interview preparation checklist as the the user researches on the computer](/blog/images/9oslXLT.png)
 
 Whether you're conducting interviews in person or online, it’s important to be prepared before you speak with real users. You want to make the most of your limited time together and learn as much as you can about their unique perspectives. Here are a few things you can do to prepare for interviews:
 
@@ -26,7 +26,7 @@ Whether you're conducting interviews in person or online, it’s important to be
 
 **Practice.** It’s always a good idea to practice delivering the questions you’ll ask users before you conduct a real interview. This gives you time to make changes to the questions you’re planning to ask and helps ensure that the interviews run smoothly. Practicing is also a good way to determine if the length of the interview is appropriate, or if you need to add or cut questions from your list. You can practice asking interview questions in front of a mirror or with a trusted colleague.
 
-![Meet the partcipant. The user and researcher shake hands as the researcher says, "How has your day been?"](images/KILMXTn.png)
+![Meet the partcipant. The user and researcher shake hands as the researcher says, "How has your day been?"](/images/KILMXTn.png)
 
 First impressions matter! As you meet users for the first time, at the start of an interview, you want the conversation to be set up for success. Here are a few things you can do when meeting interview participants:
 
@@ -36,7 +36,7 @@ First impressions matter! As you meet users for the first time, at the start of 
 
 **Gather basic details.** As you meet users, remember to ask about basic information that's relevant to the interview, such as their name or demographic details.
 
-![Conduct the interview: The researcher is asking the interviewee questions.](images/vdPlkj3.png)
+![Conduct the interview: The researcher is asking the interviewee questions.](/images/vdPlkj3.png)
 
 Conducting interviews as a way to empathize with users is all about making the user feel comfortable and asking lots of questions. Here are a couple of things to keep in mind as you conduct interviews:
 
@@ -44,7 +44,7 @@ Conducting interviews as a way to empathize with users is all about making the u
 
 **Ask open-ended questions.** Avoid asking questions that would lead to a simple “yes” or “no” answer. Instead, ask questions that start with “why.” For example, avoid asking "Do you like going to the library?" and instead ask "Why do you like or dislike going to the library?" This will allow for more detailed conversations and can reveal useful information to include in the product you're designing. If the participant does provide a short “yes” or “no” answer, you should ask a follow-up question to get them to share more.
 
-![Take Notes. The researcher sits across from the researcher and takes notes.](images/SZ0Zg6m.png)
+![Take Notes. The researcher sits across from the researcher and takes notes.](/images/SZ0Zg6m.png)
 
 Interviews tend to happen quickly. Without taking notes, recounting exactly what participants expressed can be nearly impossible! As you watch and listen to participants during the interview, write down as much as you can capture. A robust list of notes will be helpful when you create empathy maps, and when you come up with ideas to solve users’ pain points. Here are a few best practices to help you take notes during interviews:
 
@@ -54,7 +54,7 @@ Interviews tend to happen quickly. Without taking notes, recounting exactly what
 
 **Consider recording interviews.** Ask participants if they will allow you to record their interview. If they consent, recorded interviews can be really helpful later, for revisiting parts of an interview that you might not remember or taking additional notes after the interview concludes. 
 
-![](images/aegS6kV.png)
+![](/images/aegS6kV.png)
 
 After you've asked all of the interview questions, give users a chance to share their final thoughts about any items discussed during the interview. Some participants might open up about their opinions and reveal insights that they didn’t share earlier. 
 

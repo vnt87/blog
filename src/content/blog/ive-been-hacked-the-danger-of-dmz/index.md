@@ -3,7 +3,7 @@ title: 'I''ve been hacked: The danger of DMZ'
 description: 'I''ve been hacked: The danger of DMZ'
 pubDate: '2021-04-19'
 updatedDate: '2024-12-01T03:51:14.440Z'
-heroImage: images/elKMkNO.png
+heroImage: //images/elKMkNO.png
 categories:
   - randomness
 tags: []
@@ -47,7 +47,7 @@ Anyway, after gaining access to my computer through an opened VNC port, then the
 
 <figure>
 
-![](images/elKMkNO.png)
+![](/blog/images/elKMkNO.png)
 
 <figcaption>
 

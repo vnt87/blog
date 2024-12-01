@@ -3,7 +3,7 @@ title: Good bye Mr. Snowball
 description: Good bye Mr. Snowball
 pubDate: '2019-11-07'
 updatedDate: '2024-12-01T03:51:14.422Z'
-heroImage: images/1f642.png
+heroImage: /blog-placeholder-5.jpg
 categories:
   - rants
 tags:
@@ -20,7 +20,7 @@ I wasn't even in college, just a kid fresh out of High School.
 And yet one thing made that year particularly memorable to me, to all of my family.  
 This guy right here.  
 I still remember vividly the day he came into our lives, such tiny little creature, with piercing blue eyes. So small and yet nothing seems to be scaring him. Footsteps, loud noises, nothing could even make him turn his head.  
-(We soon found out that's because he's completely, utterly deaf ![](images/1f642.png):) which is also why he never had a formal name, because nobody could've called him. He was simply known as "The Snowball")  
+(We soon found out that's because he's completely, utterly deaf ![](/blog-placeholder-2.jpg):) which is also why he never had a formal name, because nobody could've called him. He was simply known as "The Snowball")  
 Then he'd proceed to spend the next 14 years of his life brightening up our days, without fail.  
 Today is no different really. After spending most of the days being awesome, he took a hearty meal from his favorite bow, went back to his favorite box, took a nap, and decided not to wake up again.  
 Today is a beautiful autumn day. I guess if you could choose how and when to go, today is as good as any.  

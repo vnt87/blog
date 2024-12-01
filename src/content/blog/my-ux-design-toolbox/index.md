@@ -3,7 +3,7 @@ title: My UX Design Toolbox
 description: My UX Design Toolbox
 pubDate: '2021-06-24'
 updatedDate: '2024-12-01T03:51:14.452Z'
-heroImage: images/9RMZiVf.png
+heroImage: //images/9RMZiVf.png
 categories:
   - tips-tricks
   - ux-design
@@ -19,7 +19,7 @@ tags:
 
 Just like carpenters rely on different tools for different tasks, so do UX designers. Start adding some tools to your digital toolbox and explore a few of the most popular programs that you might use as an entry-level UX designer.
 
-![A person with long hair stands in front of toolbox holding a laptop. Text above reads wireframing and prototyping tools](images/9RMZiVf.png)
+![A person with long hair stands in front of toolbox holding a laptop. Text above reads wireframing and prototyping tools](/blog/images/9RMZiVf.png)
 
 Early in your UX design career, you’ll likely spend a lot of time creating wireframes and prototypes.
 
@@ -40,7 +40,7 @@ And of course, there are other tools like UXPin, InVision, MarvelApp that you ca
 
 Keep in mind that the UX design industry changes often, and so do design tools. Many of the skills we’ll explore as part of this program are transferable, meaning once you know the basics in one tool, like Figma or Adobe XD, that knowledge will transfer to other design tools that look and feel quite similar.
 
-![A person holding a megaphone stands in front of a toolbox. Text above reads "presentation tools"](images/pUcKZM7.png)
+![A person holding a megaphone stands in front of a toolbox. Text above reads "presentation tools"](/images/pUcKZM7.png)
 
 During the early, conceptual phases of the design process, you don’t always need to use tools that were specifically made for UX design. In fact, some designers prefer working within the relative simplicity of presentation programs, especially when they’re creating wireframes. Most presentation tools also have live collaboration features, so team members can interact with each other and collaborate on the designs. Here are three of the most popular presentation tools from Google, Microsoft, and Apple:
 
@@ -51,7 +51,7 @@ During the early, conceptual phases of the design process, you don’t always ne
 
 In many instances, presentation tools are a matter of preference. Feel free to try out many of them, and pick whichever you feel most comfortable working with!
 
-![A person holding a camera and scissors and standing in front of a toolbox. Text above: image creation and manipulation tools](images/flUQ67q.png)
+![A person holding a camera and scissors and standing in front of a toolbox. Text above: image creation and manipulation tools](/images/flUQ67q.png)
 
 As you develop your designs, you might need to use tools to create, manipulate, and integrate images and illustrations. Here are two of the most popular image creation and manipulation tools: 
 
@@ -64,7 +64,7 @@ There's also Gravit Design which was a great project back in the day. It works w
 
 In all honesty though, most basic image manipulation can already be done in your screen design tool. Figma can handle both SVG Vector and raster images just fine. It can cut, crop, resize, even do basic color correction there. Only use AI and PS if you want to create something more hardcore, because let's face it, they are massive resource hogs.
 
-![A person holding a slate while standing in front of a toolbox. Text above reads: animation tools](images/OOjd7BE.png)
+![A person holding a slate while standing in front of a toolbox. Text above reads: animation tools](/images/OOjd7BE.png)
 
 Creating animations can be a great way to showcase the more interactive elements of your designs. For example, you could create a Graphics Interchange Format (GIF) to demonstrate how a user might interact with the homepage of an app you’re designing. There are many programs that UX designers can use to create animations, but here are a couple to highlight:
 

@@ -3,7 +3,7 @@ title: 'Setup a family printer with a Raspberry Pi 1, CUPS and Canon LBP 2900'
 description: 'Setup a family printer with a Raspberry Pi 1, CUPS and Canon LBP 2900'
 pubDate: '2021-07-25'
 updatedDate: '2024-12-01T03:51:14.467Z'
-heroImage: images/G9SKyOJ.jpg
+heroImage: //images/G9SKyOJ.jpg
 categories:
   - diy
   - linux
@@ -14,7 +14,7 @@ tags:
   - raspberry-pi
 ---
 
-![](images/G9SKyOJ.jpg)
+![](/blog/images/G9SKyOJ.jpg)
 
 Ok so after using it as an Media Server (OSMC, Kodi), Audio Server (Volumio, Moode), and most recently a CloudFlare DDNS updater on top of Raspbian Lite, I'm running out of things to do with my old RPi. I figure there's one thing I haven't tried turning it into: a print server. So that's what we're gonna do today.
 
@@ -60,7 +60,7 @@ Now go to CUPS WebUI (_https://<raspberry-pi-ip>:631_) (if you can't access it, 
 
 <figure>
 
-![](images/image-3.png)
+![](/blog-placeholder-5.jpg)
 
 <figcaption>
 
@@ -72,7 +72,7 @@ If you have the printer plugged into your RPi then it should show up under 'Loca
 
 <figure>
 
-![](images/image-4.png)
+![](/blog-placeholder-1.jpg)
 
 <figcaption>
 
@@ -84,7 +84,7 @@ Give it an easy to remember name, and remember to check 'Share This Printer'
 
 <figure>
 
-![](images/image-6.png)
+![](/blog-placeholder-4.jpg)
 
 <figcaption>
 
@@ -96,7 +96,7 @@ Select 'Canon Inc' here, if you don't see it, refer to the ' Copy the files to t
 
 <figure>
 
-![](images/image-5.png)
+![](/blog-placeholder-3.jpg)
 
 <figcaption>
 
@@ -108,7 +108,7 @@ Select your printer model and you should be good to go
 
 If everything went correctly, your printer should now be detectable by other computers on the same network. For example, on my Windows PC next room, I could just go to Add a new printer and here it is:
 
-![](images/image-7-1024x570.png)
+![](/blog-placeholder-1.jpg)
 
 Go ahead, add it and print a test page, see if it works.
 

@@ -3,7 +3,7 @@ title: Hosting my own Netflix on an ancient Mac Mini 2011
 description: Hosting my own Netflix on an ancient Mac Mini 2011
 pubDate: '2021-02-24'
 updatedDate: '2024-12-01T03:51:14.429Z'
-heroImage: images/F118CfL.png
+heroImage: //images/F118CfL.png
 categories:
   - tips-tricks
 tags:
@@ -15,7 +15,7 @@ tags:
   - raspberry-pi
 ---
 
-![](images/F118CfL.png)
+![](/blog/images/F118CfL.png)
 
 _(This is not really a guide or a tutorial, you may get some tips on how to setup a reverse proxy to access your server from your own domain, but if you're here looking for a full blown media server setup guide, you're in the wrong place)_
 
@@ -27,7 +27,7 @@ Since I had to spend like 4-5 days at my inlaws during these times, I knew Netfl
 
 <figure>
 
-![](images/phimhub_jelly-1024x768.jpg)
+![](/blog-placeholder-1.jpg)
 
 <figcaption>
 

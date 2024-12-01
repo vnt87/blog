@@ -3,7 +3,7 @@ title: 'Full Dark-mode: ya or na?'
 description: 'Full Dark-mode: ya or na?'
 pubDate: '2019-05-11'
 updatedDate: '2024-12-01T03:51:14.420Z'
-heroImage: images/18esOwd.png
+heroImage: //images/18esOwd.png
 categories:
   - design
 tags:
@@ -25,19 +25,19 @@ But during recent years, dark mode seems to be all the rage. Everybody started i
 
 So I quickly whipped up some screens, what do you guys think?
 
-\[caption id="" align="aligncenter" width="1366"\]![Main Dashboard: Dark](images/18esOwd.png) Main Dashboard: Dark\[/caption\]
+\[caption id="" align="aligncenter" width="1366"\]![Main Dashboard: Dark](/blog/images/18esOwd.png) Main Dashboard: Dark\[/caption\]
 
  
 
-\[caption id="" align="aligncenter" width="1366"\]![Main Dashboard: Light](images/Klh0Onk.png) Main Dashboard: Light\[/caption\]
+\[caption id="" align="aligncenter" width="1366"\]![Main Dashboard: Light](/images/Klh0Onk.png) Main Dashboard: Light\[/caption\]
 
  
 
-\[caption id="" align="aligncenter" width="1366"\]![Table view: Dark](images/QQv02o7.png) Table view: Dark\[/caption\]
+\[caption id="" align="aligncenter" width="1366"\]![Table view: Dark](/images/QQv02o7.png) Table view: Dark\[/caption\]
 
  
 
-\[caption id="" align="aligncenter" width="1366"\]![Table view: Light](images/F1kpF1W.png) Table view: Light\[/caption\]
+\[caption id="" align="aligncenter" width="1366"\]![Table view: Light](/images/F1kpF1W.png) Table view: Light\[/caption\]
 
  
 

@@ -3,7 +3,7 @@ title: Just an update...
 description: Just an update...
 pubDate: '2017-02-16'
 updatedDate: '2024-12-01T03:51:14.441Z'
-heroImage: images/thirty-2.jpg
+heroImage: /blog-placeholder-2.jpg
 categories:
   - randomness
 tags:
@@ -13,7 +13,7 @@ tags:
   - typography
 ---
 
-![](images/thirty-2.jpg)
+![](/blog-placeholder-5.jpg)
 
 If you’re wondering what I’ve been up to lately (well you probably aren’t, but whatever), well, I’m getting into tee shirts sale!
 

@@ -3,7 +3,7 @@ title: CODEX has left the scene
 description: CODEX has left the scene
 pubDate: '2022-02-24'
 updatedDate: '2024-12-01T03:51:14.406Z'
-heroImage: images/71ba8f811ca9bb13a35db182f6729f35.png
+heroImage: /blog-placeholder-1.jpg
 categories:
   - randomness
 tags:
@@ -16,7 +16,7 @@ tags:
   - skidrow
 ---
 
-![](images/71ba8f811ca9bb13a35db182f6729f35.png)
+![](/blog-placeholder-5.jpg)
 
 Even though I don't really have time to play video games anymore these days, I still deeply respect these scene groups and what they did to make life enjoyable for millions of underprivileged children.
 

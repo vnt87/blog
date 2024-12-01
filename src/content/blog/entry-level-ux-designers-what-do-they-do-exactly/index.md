@@ -3,7 +3,7 @@ title: 'Entry-level UX designers, what do they do exactly?'
 description: 'Entry-level UX designers, what do they do exactly?'
 pubDate: '2021-06-14'
 updatedDate: '2024-12-01T03:51:14.416Z'
-heroImage: images/alXuEDf.png
+heroImage: //images/alXuEDf.png
 categories:
   - tips-tricks
 tags:
@@ -21,7 +21,7 @@ As an entry-level UX designer, you’ll have a lot of exciting opportunities to 
 
 <figure>
 
-![graphic of a person using a laptop, with various icons surrounding them indicating UX design skills](images/alXuEDf.png)
+![graphic of a person using a laptop, with various icons surrounding them indicating UX design skills](/blog/images/alXuEDf.png)
 
 <figcaption>
 
@@ -51,7 +51,7 @@ As you get further along in your career, you can choose to specialize in a certa
 
 <figure>
 
-![Graphic representation of different types of designers.](images/qlvGuaP.png)
+![Graphic representation of different types of designers.](/images/qlvGuaP.png)
 
 <figcaption>
 
@@ -75,7 +75,7 @@ Vertical line - representing a specialist, expert at one thing. Horizontal line 
 
 **T-shaped**: A T-shaped designer is a specialist who also has a lot of capabilities in other areas. T-shaped designers get their name because the stem (or vertical line) of a T represents their expertise in one area, while the top (or horizontal line) symbolizes their related skills in a broad number of areas. T-shaped designers are great to have on your team, since they come with the benefits of both specialists and generalists. The image below highlights some of the skills a T-shaped UX designer might have. In this example, the person is a visual design specialist but also has knowledge in other areas, like coding and prototyping.
 
-![Image depicting a t-shaped designer's area of expertise](images/jVlssZW.png)
+![Image depicting a t-shaped designer's area of expertise](/images/jVlssZW.png)
 
 Each designer tends to naturally have a little T-shape in their abilities, even at the beginning of their career. As you start to work on projects, you’ll probably notice where your strengths and interests lie. As you get better at one area of design, you’ll likely find yourself working on that part of design projects more often, which helps you continue to improve in one area.
 

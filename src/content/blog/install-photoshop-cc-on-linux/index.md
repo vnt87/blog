@@ -3,7 +3,7 @@ title: Install Photoshop CC on Linux
 description: Install Photoshop CC on Linux
 pubDate: '2021-08-18'
 updatedDate: '2024-12-01T03:51:14.433Z'
-heroImage: images/Screenshot.png
+heroImage: /blog-placeholder-2.jpg
 categories:
   - linux
   - tips-tricks
@@ -17,7 +17,7 @@ tags:
   - photoshop-linux
 ---
 
-![](images/Screenshot.png)
+![](/blog-placeholder-2.jpg)
 
 No, this is not GIMPShop or any other dirty hacks that attempt to make GIMP/Krita look or feel like Photoshop. This is the real Photoshop. And no, Adobe hasn't changed their mind about making a native Linux version available either. As you may have guessed, despite the fancy new splash screen, this is just Photoshop CC running on Wine, but it has been repacked so the installer does everything for you. If you already have a PS + Wine in place there's no need to read this.
 

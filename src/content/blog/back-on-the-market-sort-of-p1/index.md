@@ -3,7 +3,7 @@ title: Back on the Market (sort of) P1
 description: Back on the Market (sort of) P1
 pubDate: '2024-11-11'
 updatedDate: '2024-12-01T03:51:14.401Z'
-heroImage: images/image-1024x768.png
+heroImage: /blog-placeholder-5.jpg
 categories:
   - randomness
   - rants
@@ -28,7 +28,7 @@ Not only do we slow to adapt, we're extremely resistant to learning new things. 
 
 But apparently it wasn't enough. Despite the management reassuring the staffs on every Town Hall meeting that everything's fine, layoffs are being handed out left and right. More senior staffs that hold essential skills and can speak English well like me are being kept, but barely. It's been 4 months since my last assigned projects, and things are looking bleak.
 
-![](images/image-1024x768.png)
+![](/blog-placeholder-4.jpg)
 
 <!--more-->
 

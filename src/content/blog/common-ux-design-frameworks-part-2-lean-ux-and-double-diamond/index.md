@@ -3,7 +3,7 @@ title: 'Common UX Design Frameworks (part 2): Lean UX and Double Diamond'
 description: 'Common UX Design Frameworks (part 2): Lean UX and Double Diamond'
 pubDate: '2021-06-17'
 updatedDate: '2024-12-01T03:51:14.409Z'
-heroImage: images/q2FHVJe.png
+heroImage: //images/q2FHVJe.png
 categories:
   - tips-tricks
   - ux-design
@@ -24,7 +24,7 @@ The Lean UX process is broken into three steps: 
 
 **Check.** Find out how users respond to your design and gather feedback from project stakeholders. Make adjustments to your designs accordingly, and repeat the three steps again, if necessary.
 
-![https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/LoTVh-MXRrqE1YfjFwa6VA_84ea0180d9af4f58ae003ec3df328fa2_Screenshot-2021-03-02-at-11.36.43-PM.png?expiry=1624147200000&hmac=zVH8GLRLG-Mw2cTVwBOMMPgBYUmZdBY60Y_EFfeLpPg](images/q2FHVJe.png)
+![https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/LoTVh-MXRrqE1YfjFwa6VA_84ea0180d9af4f58ae003ec3df328fa2_Screenshot-2021-03-02-at-11.36.43-PM.png?expiry=1624147200000&hmac=zVH8GLRLG-Mw2cTVwBOMMPgBYUmZdBY60Y_EFfeLpPg](/blog/images/q2FHVJe.png)
 
 These steps are meant to be repeated as many times as needed, until your team reaches the desired final product. The Lean UX process encourages productivity and collaboration. Lean UX teams are typically cross-functional, which means you’ll be working alongside team members like engineers and UX researchers.
 
@@ -50,7 +50,7 @@ Double Diamond is a more traditional UX process, which breaks down UX design int
 3. **Develop solutions for the problem.** Begin designing your product as a work in progress. This is where wireframes and prototypes come into play.
 4. **Deliver the product.** Review and test your product to prepare it for release.
 
-![https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/vO_Y3qYRSI-v2N6mEbiPHA_a66aebbde23443c9a1d2504ef67e899e_Screen-Shot-2021-03-08-at-11.54.45-AM.png?expiry=1624147200000&hmac=Sp9w2JhER05k_tIByKrZmcXsA2F-UQFmEFrPOCEJKAw](images/GVAcru2.png)
+![https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/vO_Y3qYRSI-v2N6mEbiPHA_a66aebbde23443c9a1d2504ef67e899e_Screen-Shot-2021-03-08-at-11.54.45-AM.png?expiry=1624147200000&hmac=Sp9w2JhER05k_tIByKrZmcXsA2F-UQFmEFrPOCEJKAw](/images/GVAcru2.png)
 
 Like a lot of the design frameworks we’ve discussed, Double Diamond is iterative, not linear. Each sprint leads the team to new insights that are used to improve the product's design. Then, the process starts over again with a new iteration. Think of it like the various drafts of a research paper that a student writes before they turn in a final draft to the teacher for a grade.
 

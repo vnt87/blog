@@ -3,7 +3,7 @@ title: Retro Computer Terminal
 description: Retro Computer Terminal
 pubDate: '2019-03-09'
 updatedDate: '2024-12-01T03:51:14.465Z'
-heroImage: images/oxj1l2O.jpg
+heroImage: //images/oxj1l2O.jpg
 categories: []
 tags: []
 ---
@@ -16,10 +16,10 @@ Problem is, I only own a few primitive hand tool, and my skill with them leaves 
 
 So maybe something like this SVM Commander 3D render?
 
-![](images/oxj1l2O.jpg)
+![](/blog/images/oxj1l2O.jpg)
 
 Or maybe one of these real models?
 
-![](images/msVDLL5.jpg)
+![](/images/msVDLL5.jpg)
 
 The possibilities are endless. Argh I've been losing sleep over these.

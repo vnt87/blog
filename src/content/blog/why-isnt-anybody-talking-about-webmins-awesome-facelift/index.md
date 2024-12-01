@@ -3,7 +3,7 @@ title: Why isn't anybody talking about Webmin's awesome facelift?
 description: Why isn't anybody talking about Webmin's awesome facelift?
 pubDate: '2021-07-21'
 updatedDate: '2024-12-01T03:51:14.492Z'
-heroImage: images/image-1024x595.png
+heroImage: /blog-placeholder-1.jpg
 categories:
   - randomness
 tags: []
@@ -17,13 +17,13 @@ Revisiting it a few years later, I just couldn't believe my eyes when I first fi
 
 Check out this before-after comparison:
 
-![](images/image-1024x595.png)
+![](/blog-placeholder-2.jpg)
 
-![](images/image-1-1024x510.png)
+![](/blog-placeholder-5.jpg)
 
 <figure>
 
-![](images/image-2-1024x509.png)
+![](/blog-placeholder-2.jpg)
 
 <figcaption>
 

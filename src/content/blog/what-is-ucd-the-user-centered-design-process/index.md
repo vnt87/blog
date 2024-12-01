@@ -3,7 +3,7 @@ title: What is UCD? The User-Centered Design Process
 description: What is UCD? The User-Centered Design Process
 pubDate: '2021-06-16'
 updatedDate: '2024-12-01T03:51:14.490Z'
-heroImage: images/ucd-1024x390.png
+heroImage: /blog-placeholder-3.jpg
 categories:
   - tips-tricks
   - ux-design
@@ -29,7 +29,7 @@ Here are the key steps in the user-centered design process: 
 - **Design solutions**. Come up with lots of ideas for designs that can address the user problems you’ve identified. Then, start to actually design those ideas! 
 - **Evaluate the solutions you designed against the user’s needs**. Ask yourself, does the design I created solve the user’s problem? To answer this question, you should test the product you designed with real people and collect feedback. 
 
-![](images/ucd-1024x390.png)
+![](/blog-placeholder-5.jpg)
 
 Notice how the arrows in the diagram indicate circular movement. This illustrates the iterative quality of the user-centered design process. Designers go back to earlier phases of the process to refine and make corrections to their designs. With the user-centered design process, you’re always working to improve the user’s experience and address the problems that users are facing!
 

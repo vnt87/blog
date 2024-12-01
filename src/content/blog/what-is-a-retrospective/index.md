@@ -3,7 +3,7 @@ title: What is a retrospective?
 description: What is a retrospective?
 pubDate: '2021-06-28'
 updatedDate: '2024-12-01T03:51:14.488Z'
-heroImage: images/huLUCs7.png
+heroImage: //images/huLUCs7.png
 categories:
   - tips-tricks
   - ux-design
@@ -27,7 +27,7 @@ Answering these questions will help you work better as a team and as an individu
 
 <!--more-->
 
-![A graphic of a shining trophy with the text "what went well?" written underneath](images/huLUCs7.png)
+![A graphic of a shining trophy with the text "what went well?" written underneath](/blog/images/huLUCs7.png)
 
 Start the retrospective by discussing the parts of the design sprint that were successful and areas where the team did well. Maybe a new process was created that could be applied to future sprints. Or maybe the addition of a new digital tool enhanced the team’s productivity. Analyze your team’s wins, and think about how they could be applied to future sprints.
 
@@ -39,7 +39,7 @@ Questions you might ask during this part of the retrospective include:
 
 This is also a good time to acknowledge a team member’s strong performance. Celebrating successes builds relationships and increases cohesion and harmony within the team!
 
-![](images/fBxL8qQ.png)
+![](/images/fBxL8qQ.png)
 
 After highlighting everything that went well, it’s time to shift gears and think about areas for improvement. Your team will want to know what went wrong, so that you all can do better next time. 
 
@@ -63,7 +63,7 @@ Identify ways that the team could have ended up with a better solution. 
 
 Keep in mind, retrospectives are about empowering, not shaming. This is not the time to call out an individual for poor performance. If you have issues with a team member’s work, it’s best to address it with that person privately, not during a team-wide retrospective.
 
-![An icon of a file, a piece of paper and a pencil. Text underneath reads "lessons learned"](images/9a98S4Y.png)
+![An icon of a file, a piece of paper and a pencil. Text underneath reads "lessons learned"](/images/9a98S4Y.png)
 
 By the end of the retrospective meeting, your team will have a better understanding of what went well and what could be improved. Naturally, you’ll want to take lessons learned into your next design sprint. 
 

@@ -3,7 +3,7 @@ title: Installing multiple Wordpress modules for Bitnami WAMP Stacks
 description: Installing multiple Wordpress modules for Bitnami WAMP Stacks
 pubDate: '2018-09-17'
 updatedDate: '2024-12-01T03:51:14.437Z'
-heroImage: images/wordpress-tweet-image-db7682f0029f47f5e947e11e079a9f33.png
+heroImage: /blog-placeholder-5.jpg
 categories:
   - linux
   - tips-tricks
@@ -13,7 +13,7 @@ tags:
   - wordpress
 ---
 
-![](images/wordpress-tweet-image-db7682f0029f47f5e947e11e079a9f33.png)
+![](/blog-placeholder-1.jpg)
 
 I absolutely love [Bitnami](https://bitnami.com/) due to its sheer simplicity in making the process of setting up a local web stack a complete breeze, especially how adding modules like Wordpress, Drupal, Magento etc. is as easy as installing Skype. There's one thing that bothers me with the module installers though, is that there's no multi installation option available during the installation process. Well after a bit of digging around, I realize that the option is there, but for some reason it's not baked into the GUI installer. Instead you'd need to pass the option using the command line interface. That's not a problem for me but many people who's not familiar with the CLI may find it a hassle, which it is. But once you get the hang of it, it's actually the easiest way to add additional installation of a webapp to your development stack (yes, even easier than doing it manually since you don't have to go through the database creation process).
 

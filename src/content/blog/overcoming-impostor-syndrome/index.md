@@ -3,7 +3,7 @@ title: Overcoming impostor syndrome
 description: Overcoming impostor syndrome
 pubDate: '2021-07-02'
 updatedDate: '2024-12-01T03:51:14.460Z'
-heroImage: images/YhebYBq.png
+heroImage: //images/YhebYBq.png
 categories:
   - tips-tricks
   - ux-design
@@ -15,7 +15,7 @@ Have you ever felt like you aren’t quite good enough, even though you actually
 
 **Impostor syndrome** is the belief that you’re unskilled, inferior to others, or bad at your job, despite your successes. We’ve all felt impostor syndrome at some point in our lives. If you’re feeling impostor syndrome, you’re certainly not alone!
 
-![](images/YhebYBq.png)
+![](/blog/images/YhebYBq.png)
 
 ##### Effects of impostor syndrome
 
@@ -31,7 +31,7 @@ Impostor syndrome can cause anxiety and low confidence that can stop you from be
 
 ##### Manage impostor syndrome
 
-![](images/ySPqdCv.png)
+![](/images/ySPqdCv.png)
 
 We want you to meet new people with confidence and without letting impostor syndrome get in the way. Here are a few pro tips to manage those anxious feelings:
 

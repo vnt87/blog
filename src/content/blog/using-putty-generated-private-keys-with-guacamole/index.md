@@ -3,7 +3,7 @@ title: Using Putty generated private keys with Guacamole
 description: Using Putty generated private keys with Guacamole
 pubDate: '2021-05-01'
 updatedDate: '2024-12-01T03:51:14.486Z'
-heroImage: images/image.png
+heroImage: /blog-placeholder-2.jpg
 categories:
   - tips-tricks
 tags:
@@ -16,7 +16,7 @@ If you're trying to use a private key with Guacamole to connect to your server b
 
 <figure>
 
-![](images/image.png)
+![](/blog-placeholder-2.jpg)
 
 <figcaption>
 
@@ -28,7 +28,7 @@ Opens your PPK with Puttygen again, and go to Convesions > Export OpenSSH key (t
 
 <figure>
 
-![](images/image-2.png)
+![](/blog-placeholder-3.jpg)
 
 <figcaption>
 

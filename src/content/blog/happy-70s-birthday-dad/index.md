@@ -3,7 +3,7 @@ title: Happy 70s Birthday Dad!
 description: Happy 70s Birthday Dad!
 pubDate: '2024-03-24'
 updatedDate: '2024-12-01T03:51:14.425Z'
-heroImage: images/dad70s-750x1024.jpg
+heroImage: /blog-placeholder-4.jpg
 categories:
   - randomness
 tags: []
@@ -11,7 +11,7 @@ tags: []
 
 <figure>
 
-![](images/dad70s-750x1024.jpg)
+![](/blog-placeholder-4.jpg)
 
 <figcaption>
 

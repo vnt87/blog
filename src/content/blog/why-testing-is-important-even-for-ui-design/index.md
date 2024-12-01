@@ -3,7 +3,7 @@ title: Why testing is important even for UI design
 description: Why testing is important even for UI design
 pubDate: '2021-10-18'
 updatedDate: '2024-12-01T03:51:14.493Z'
-heroImage: images/image-2.png
+heroImage: /blog-placeholder-4.jpg
 categories:
   - randomness
 tags: []
@@ -11,7 +11,7 @@ tags: []
 
 <figure>
 
-![](images/image-2.png)
+![](/blog-placeholder-2.jpg)
 
 <figcaption>
 

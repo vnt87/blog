@@ -3,7 +3,7 @@ title: Yet Another GIMP UI Rework (2020 Edition WIP)
 description: Yet Another GIMP UI Rework (2020 Edition WIP)
 pubDate: '2020-02-16'
 updatedDate: '2024-12-01T03:51:14.494Z'
-heroImage: images/mcOT7O2.jpg
+heroImage: //images/mcOT7O2.jpg
 categories:
   - design
 tags:
@@ -30,7 +30,7 @@ Here's a quick sneak peak of the current WIP.
 
 **Feb 16 2020**: Basic layout for the overall interface, dockable dialogs, tools etc.
 
-[![](images/mcOT7O2.jpg)](https://i.imgur.com/mcOT7O2.jpg)
+[![](/blog/images/mcOT7O2.jpg)](https://i.imgur.com/mcOT7O2.jpg)
 
 * * *
 
@@ -41,12 +41,12 @@ Here's a quick sneak peak of the current WIP.
 3. Dock the toolset to the left instead of letting it float (there will be a dual-column undocked version later)
 4. Modify the text in the bottom info bar to resemble actual useful information
 
-[![](images/k0C1C9m.jpg)](https://i.imgur.com/k0C1C9m.jpg)
+[![](/images/k0C1C9m.jpg)](https://i.imgur.com/k0C1C9m.jpg)
 
 * * *
 
 (for future references, this is the screen we're trying to redesign:
 
-[![](images/NvZppx8.png)](https://i.imgur.com/NvZppx8.png)
+[![](/images/NvZppx8.png)](https://i.imgur.com/NvZppx8.png)
 
 Also, for the record, my design is open source and can be freely accessed on Figma at [this URL](https://www.figma.com/file/hWyVbX2yGHzpkO3R25Hpug/NeoGIMP?node-id=88%3A1082)

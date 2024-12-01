@@ -3,7 +3,7 @@ title: 'Choosing a cloud hosting provider: Digital Ocean vs Linode'
 description: 'Choosing a cloud hosting provider: Digital Ocean vs Linode'
 pubDate: '2021-09-16'
 updatedDate: '2024-12-01T03:51:14.405Z'
-heroImage: images/DigitalOcean-vs-Linode-2-1140x515.png
+heroImage: /blog-placeholder-2.jpg
 categories:
   - rants
 tags:
@@ -13,7 +13,7 @@ tags:
   - vultr
 ---
 
-![DigitalOcean vs. Linode | Low-code backend to build modern apps](images/DigitalOcean-vs-Linode-2-1140x515.png)
+![DigitalOcean vs. Linode | Low-code backend to build modern apps](/blog-placeholder-3.jpg)
 
 I'm gonna make this short: avoid Digital Ocean like the plague.
 

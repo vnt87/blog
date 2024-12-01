@@ -3,7 +3,7 @@ title: Installing Autodesk Mudbox 2018 on Deepin Linux 15.6
 description: Installing Autodesk Mudbox 2018 on Deepin Linux 15.6
 pubDate: '2018-08-19'
 updatedDate: '2024-12-01T03:51:14.436Z'
-heroImage: images/DeepinScreenshot_mudbox_20180819174722.png
+heroImage: /blog-placeholder-5.jpg
 categories:
   - linux
   - tips-tricks
@@ -19,7 +19,7 @@ tags:
 
 <figure>
 
-![](images/DeepinScreenshot_mudbox_20180819174722.png)
+![](/blog-placeholder-5.jpg)
 
 <figcaption>
 

@@ -3,7 +3,7 @@ title: Common UX Research Methods
 description: Common UX Research Methods
 pubDate: '2021-07-12'
 updatedDate: '2024-12-01T03:51:14.410Z'
-heroImage: images/AWPPz96.png
+heroImage: //images/AWPPz96.png
 categories:
   - ux-design
 tags:
@@ -29,7 +29,7 @@ The second way to categorize research is based on the type of data collected: qu
 
 **Quantitative research** focuses on data that can be _gathered by counting or measuring_. Quantitative research is based on numerical data that’s often collected from large-scale surveys. This type of research aims to answer questions like “how many?” and “how much?”
 
-![](images/AWPPz96.png)
+![](/blog/images/AWPPz96.png)
 
 All four of these types of research can intermix. Primary and secondary research can be both qualitative and quantitative. For example, an interview is _qualitative_ research. An interview conducted by you is _primary_ research. If you review an article about an interview conducted by someone else, it’s _secondary_ research. It’s important to be able to identify the difference between these types of research because the data you collect forms the basis of your design decisions.
 
@@ -39,7 +39,7 @@ All four of these types of research can intermix. Primary and secondary research
 
 Now that you understand the different types of research, let’s review some common primary research methods for gathering information.
 
-![](images/apJ3b0y.png)
+![](/images/apJ3b0y.png)
 
 **Interviews** are a research method used to collect in-depth information on people's opinions, thoughts, experiences, and feelings. Interviews can be performed one-on-one or in a group setting, like a focus group. 
 
@@ -64,7 +64,7 @@ Best practice is to conduct at least five user interviews during your research. 
 
 If you want to learn more about interviews, check out [an article about user interviews](https://www.nngroup.com/articles/user-interviews/#:~:text=Topics%3A,of%20learning%20about%20that%20topic.) from the Nielsen Norman Group.
 
-![](images/sUGgdPU.png)
+![](/images/sUGgdPU.png)
 
 A **survey** is an activity where many people are asked the same questions in order to understand what most people think about a product. Surveys are a great way to measure the success of your product, during development and after it’s launched. For example, sending surveys after a product is released can help you measure the effectiveness of your product and provide a foundation for future improvements. 
 
@@ -84,7 +84,7 @@ You can design surveys to include open-ended questions for qualitative research,
 
 If you want to learn more about surveys, check out usability.gov's [article about online surveys](https://www.usability.gov/how-to-and-tools/methods/online-surveys.html). 
 
-![](images/vLjbm1u.png)
+![](/images/vLjbm1u.png)
 
 A **usability study** is a technique used to evaluate a product by testing it on users. Usability studies help demonstrate if a product is on the right track or if the design needs to be adjusted. There are lots of ways to test usability, both in person and online. It’s a good idea to record your usability sessions, either audio or video, so you can reference the user data as you make design decisions later on in the process. 
 

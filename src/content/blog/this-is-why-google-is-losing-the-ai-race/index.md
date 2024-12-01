@@ -3,7 +3,7 @@ title: This is why Google is losing the AI race
 description: This is why Google is losing the AI race
 pubDate: '2024-08-21'
 updatedDate: '2024-12-01T03:51:14.482Z'
-heroImage: images/image-1-1024x422.png
+heroImage: /blog-placeholder-3.jpg
 categories:
   - rants
 tags: []
@@ -17,4 +17,4 @@ And then we have Google, the village idiot, still region locking their Imagen ge
 
 Just my 2 cents, it's not like I need yet another cloud service while I can run my own local version
 
-![](images/image-1-1024x422.png)
+![](/blog-placeholder-2.jpg)

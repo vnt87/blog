@@ -3,7 +3,7 @@ title: A Discord-like color scheme for Slack
 description: A Discord-like color scheme for Slack
 pubDate: '2018-08-23'
 updatedDate: '2024-12-01T03:51:14.396Z'
-heroImage: images/2S1pnL1.png
+heroImage: //images/2S1pnL1.png
 categories:
   - tips-tricks
 tags:
@@ -13,7 +13,7 @@ tags:
   - vunam
 ---
 
-![](images/2S1pnL1.png)
+![](/blog/images/2S1pnL1.png)
 
 I love Slack as a productivity chat client (except the ridiculous pricing) but there's one thing I think it could use some improvement, its color scheme. Looking at Slack after coming over from Discord is like looking directly at the sun. Slack does allow you to change the color scheme of the sidebar, but the main part that you look at, you can only change via loading a custom css via their _ssb-interop.js_ file. So here's how you do it:
 

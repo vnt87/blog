@@ -3,7 +3,7 @@ title: 'Honest Logos: Vietnamese version'
 description: 'Honest Logos: Vietnamese version'
 pubDate: '2018-08-27'
 updatedDate: '2024-12-01T03:51:14.428Z'
-heroImage: images/6d6Lwo2.jpg
+heroImage: //images/6d6Lwo2.jpg
 categories:
   - randomness
 tags:
@@ -14,7 +14,7 @@ tags:
   - satire
 ---
 
-![](images/6d6Lwo2.jpg)
+![](/blog/images/6d6Lwo2.jpg)
 
 I just came across [Viktor Hertz's Honest Logos](http://viktorhertz.com/portfolio/honest-logos/) and I'm kinda inspired, I'm thinking of doing a similar series focusing on common brands in Vietnam. But I need some ideas, any suggestion?
 

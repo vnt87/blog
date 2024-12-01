@@ -3,7 +3,7 @@ title: 'Figma UI Recreation Challenge #1: Streamlabs Dashboard'
 description: 'Figma UI Recreation Challenge #1: Streamlabs Dashboard'
 pubDate: '2020-04-01'
 updatedDate: '2024-12-01T03:51:14.418Z'
-heroImage: images/Streamlabs-Dashboard-Chart.png
+heroImage: /blog-placeholder-3.jpg
 categories:
   - design
   - freebies
@@ -18,10 +18,10 @@ I will first start with 2 Streamlabs dashboard screens.
 
 <!--more-->
 
-[![](images/Streamlabs-Dashboard-Chart.png)](https://namvu.net/wp-content/uploads/2020/04/Streamlabs-Dashboard-Chart.png)
+[![](/blog-placeholder-3.jpg)](https://namvu.net/wp-content/uploads/2020/04/Streamlabs-Dashboard-Chart.png)
 
  
 
-[![](images/Streamlabs.png)](https://namvu.net/wp-content/uploads/2020/04/Streamlabs.png)
+[![](/blog-placeholder-1.jpg)](https://namvu.net/wp-content/uploads/2020/04/Streamlabs.png)
 
 You can get the file from my Freebies site [here](https://freebies.namvu.net/figma-freebie-streamlabs-dashboard/)

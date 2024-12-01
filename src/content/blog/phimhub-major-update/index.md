@@ -3,7 +3,7 @@ title: Phimhub Major Update
 description: Phimhub Major Update
 pubDate: '2022-01-15'
 updatedDate: '2024-12-01T03:51:14.461Z'
-heroImage: images/image-1024x768.png
+heroImage: /blog-placeholder-2.jpg
 categories:
   - randomness
 tags: []
@@ -15,7 +15,7 @@ It served us well, albeit with some annoyances. For starter, it only runs from 8
 
 <figure>
 
-![](images/image-1024x768.png)
+![](/blog-placeholder-3.jpg)
 
 <figcaption>
 

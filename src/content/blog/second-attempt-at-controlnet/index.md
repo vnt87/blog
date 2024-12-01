@@ -3,7 +3,7 @@ title: Second attempt at ControlNet
 description: Second attempt at ControlNet
 pubDate: '2023-03-20'
 updatedDate: '2024-12-01T03:51:14.466Z'
-heroImage: images/cSam-Sketch-1024x762.png
+heroImage: /blog-placeholder-4.jpg
 categories:
   - ai-art
 tags: []
@@ -11,7 +11,7 @@ tags: []
 
 <figure>
 
-![](images/cSam-Sketch-1024x762.png)
+![](/blog-placeholder-5.jpg)
 
 <figcaption>
 

@@ -3,7 +3,7 @@ title: Shout out to Portainer.io for the UI facelift
 description: Shout out to Portainer.io for the UI facelift
 pubDate: '2022-09-08'
 updatedDate: '2024-12-01T03:51:14.469Z'
-heroImage: images/2.15-ui-home-comparison.gif
+heroImage: /blog-placeholder-3.jpg
 categories:
   - design
   - ux-design
@@ -14,7 +14,7 @@ As an avid Portainer user and a UI designer, I just want to give a shout out to 
 
 <figure>
 
-![](images/2.15-ui-home-comparison.gif)
+![](/blog-placeholder-4.jpg)
 
 <figcaption>
 
@@ -26,7 +26,7 @@ Environment Page comparison
 
 <figure>
 
-![](images/2.15-ui-addregistry-comparison.gif)
+![](/blog-placeholder-2.jpg)
 
 <figcaption>
 
@@ -44,7 +44,7 @@ That's no longer the case
 
 <figure>
 
-![](images/image-1024x515.png)
+![](/blog-placeholder-5.jpg)
 
 <figcaption>
 

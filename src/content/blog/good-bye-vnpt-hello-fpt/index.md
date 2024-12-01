@@ -3,7 +3,7 @@ title: 'Good bye VNPT, hello FPT'
 description: 'Good bye VNPT, hello FPT'
 pubDate: '2023-03-21'
 updatedDate: '2024-12-01T03:51:14.423Z'
-heroImage: images/image-1.png
+heroImage: /blog-placeholder-1.jpg
 categories:
   - randomness
 tags: []
@@ -11,7 +11,7 @@ tags: []
 
 <figure>
 
-![](images/image-1.png)
+![](/blog-placeholder-5.jpg)
 
 <figcaption>
 
@@ -37,7 +37,7 @@ For reference, for the same price I'm paying ($10/mo) I'm getting more or less t
 
 <figure>
 
-![](images/image-2.png)
+![](/blog-placeholder-4.jpg)
 
 <figcaption>
 

@@ -7,7 +7,7 @@ description: >-
   Elements approach
 pubDate: '2021-06-16'
 updatedDate: '2024-12-01T03:51:14.407Z'
-heroImage: images/ic5tVRp.png
+heroImage: //images/ic5tVRp.png
 categories:
   - tips-tricks
   - ux-design
@@ -27,7 +27,7 @@ Design thinking is a user-centered approach to problem-solving. It helps designe
 
 Each phase of the framework answers a specific question. 
 
-![Icons that represent the design thinking process - empathize, define, ideate, prototype, and test.](images/ic5tVRp.png)
+![Icons that represent the design thinking process - empathize, define, ideate, prototype, and test.](/blog/images/ic5tVRp.png)
 
 During the **empathize** phase, the goal is to understand users' needs and how users think and feel. This involves a lot of user research, such as conducting surveys, interviews, and observation sessions, so you can get a clear picture of who your users are and the challenges they are facing.
 
@@ -47,7 +47,7 @@ Depending on the feedback from your testing phase, you might need to go back to 
 
 The five elements of UX design is a framework of steps that UX designers take to turn an idea into a working product. The five elements are, from bottom to top: strategy, scope, structure, skeleton, and surface. Think of these as a set of five layers, where each layer is dependent on the one below it.
 
-![The 5 elements of UX design, stacked on one another, top to bottom from Surface (most concrete) to Strategy (most abstract)..](images/Y4g3hZy.png)
+![The 5 elements of UX design, stacked on one another, top to bottom from Surface (most concrete) to Strategy (most abstract)..](/images/Y4g3hZy.png)
 
 - **Strategy:** The bottom layer is strategy, where you lay a foundation of your design goals. These goals are based on user needs and the business objectives for the product.
 - **Scope:** The next layer is scope, where you determine the type of product you’re building. At this point, you will consider the kind of features and content you want to include in the product.

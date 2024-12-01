@@ -3,7 +3,7 @@ title: '"Invalid Location" error when trying to add SynoCommunity Repo'
 description: '"Invalid Location" error when trying to add SynoCommunity Repo'
 pubDate: '2021-10-12'
 updatedDate: '2024-12-01T03:51:14.439Z'
-heroImage: images/image-1024x142.png
+heroImage: /blog-placeholder-2.jpg
 categories:
   - tips-tricks
 tags: []
@@ -15,7 +15,7 @@ Turns out it's a SSL error, not sure if it's related to Let's Encrypt's root cer
 
 <figure>
 
-![Publicarray's solution from Discord](images/image-1024x142.png)
+![Publicarray's solution from Discord](/blog-placeholder-5.jpg)
 
 <figcaption>
 
@@ -37,7 +37,7 @@ Obviously if you don't have SSH access, you could always turn back the clock as 
 
 <figure>
 
-![SynoCommunity Packages](images/image-1-1024x489.png)
+![SynoCommunity Packages](/blog-placeholder-5.jpg)
 
 <figcaption>
 

@@ -3,7 +3,7 @@ title: 'VPS Trials: Google vs Microsoft vs Amazon'
 description: 'VPS Trials: Google vs Microsoft vs Amazon'
 pubDate: '2021-04-01'
 updatedDate: '2024-12-01T03:51:14.487Z'
-heroImage: images/image-1024x363.png
+heroImage: /blog-placeholder-2.jpg
 categories: []
 tags: []
 ---
@@ -21,7 +21,7 @@ For people looking to spin up a VM that can be used outside of their home networ
 
 <figure>
 
-![](images/image-1024x363.png)
+![](/blog-placeholder-3.jpg)
 
 <figcaption>
 

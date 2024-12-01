@@ -3,7 +3,7 @@ title: Logic Pro X theme for Audacity
 description: Logic Pro X theme for Audacity
 pubDate: '2022-03-29'
 updatedDate: '2024-12-01T03:51:14.445Z'
-heroImage: images/before-1024x576.png
+heroImage: /blog-placeholder-3.jpg
 categories:
   - design
   - randomness
@@ -15,6 +15,6 @@ If you recall I actually [attempted to touch on this subject once in the past](h
 
 What if Audacity has a theme that used the same design language as Apple's Logic Pro X?
 
-![](images/before-1024x576.png)
+![](/blog-placeholder-2.jpg)
 
-![](images/Audacity-Pro-1-1024x576.png)
+![](/blog-placeholder-4.jpg)

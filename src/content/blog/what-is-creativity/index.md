@@ -3,7 +3,7 @@ title: What is "Creativity"?
 description: What is "Creativity"?
 pubDate: '2020-04-06'
 updatedDate: '2024-12-01T03:51:14.488Z'
-heroImage: images/XbF0i5k.png
+heroImage: //images/XbF0i5k.png
 categories:
   - rants
 tags:
@@ -13,7 +13,7 @@ tags:
 
 So one of my fellow designer recently posted this:
 
-![](images/XbF0i5k.png)
+![](/blog/images/XbF0i5k.png)
 
 Basically one of his client saidthis
 
